@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://statlock.ai/schemas/StatLock_v2_2_CFB_Rosters.schema.json",
+  "title": "StatLock v2.2 \u2014 CFB Rosters (Ourlads)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "team_name",
+    "conference",
+    "player_name",
+    "pos",
+    "source_url"
+  ],
+  "properties": {
+    "team_name": {
+      "type": "string",
+      "minLength": 2
+    },
+    "conference": {
+      "type": "string",
+      "enum": [
+        "SEC",
+        "Big Ten",
+        "Big 12",
+        "ACC",
+        "AAC",
+        "Mountain West",
+        "Sun Belt",
+        "Independents"
+      ]
+    },
+    "stadium": {
+      "type": "string"
+    },
+    "surface": {
+      "type": "string"
+    },
+    "head_coach": {
+      "type": "string"
+    },
+    "off_scheme": {
+      "type": "string"
+    },
+    "def_scheme": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": "string"
+    },
+    "player_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "jersey": {
+      "type": [
+        "string",
+        "integer"
+      ]
+    },
+    "pos": {
+      "type": "string",
+      "minLength": 1
+    },
+    "height": {
+      "type": "string"
+    },
+    "weight": {
+      "type": [
+        "string",
+        "integer"
+      ]
+    },
+    "class": {
+      "type": "string"
+    },
+    "high_school": {
+      "type": "string"
+    },
+    "hometown": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    }
+  }
+}

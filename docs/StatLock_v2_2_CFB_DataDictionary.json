@@ -1,0 +1,158 @@
+{
+  "STATLOCK_VERSION_HEADER": {
+    "version": "2.2",
+    "module": "CFB_Rosters_Ourlads",
+    "created": "2025-10-06",
+    "owner": "StatLock v2",
+    "purpose": "Standardize ingestion of NCAA FBS team rosters from Ourlads for modeling and props.",
+    "upstream_source": "https://www.ourlads.com/ncaa-football-depth-charts/",
+    "inputs": [
+      "FBS_master_roster_urls.csv",
+      "Team roster pages (Ourlads)"
+    ],
+    "outputs": [
+      "cfb_rosters_ourlads_fbs.csv",
+      "cfb_rosters_ourlads_fbs.jsonl"
+    ]
+  },
+  "FIELDS": [
+    {
+      "name": "team_name",
+      "type": "string",
+      "required": true,
+      "example": "Ohio State Buckeyes",
+      "desc": "Official team name as rendered on Ourlads roster page."
+    },
+    {
+      "name": "conference",
+      "type": "string",
+      "required": true,
+      "example": "Big Ten",
+      "desc": "Conference of the program at time of scrape."
+    },
+    {
+      "name": "stadium",
+      "type": "string",
+      "required": false,
+      "example": "Ohio Stadium (102,780)",
+      "desc": "Stadium name and capacity when listed on Ourlads."
+    },
+    {
+      "name": "surface",
+      "type": "string",
+      "required": false,
+      "example": "Grass / Shaw Sports Turf",
+      "desc": "Playing surface as listed on team roster page."
+    },
+    {
+      "name": "head_coach",
+      "type": "string",
+      "required": false,
+      "example": "Ryan Day",
+      "desc": "Head coach as listed under team info."
+    },
+    {
+      "name": "off_scheme",
+      "type": "string",
+      "required": false,
+      "example": "Spread / Pro Spread / Air Raid",
+      "desc": "Offensive scheme string from Ourlads."
+    },
+    {
+      "name": "def_scheme",
+      "type": "string",
+      "required": false,
+      "example": "4-2-5 / 3-3-5",
+      "desc": "Defensive scheme string from Ourlads."
+    },
+    {
+      "name": "updated_at",
+      "type": "datetime|string",
+      "required": false,
+      "example": "2025-09-30 13:30 ET",
+      "desc": "Timestamp text shown as 'Updated' on the roster page."
+    },
+    {
+      "name": "player_name",
+      "type": "string",
+      "required": true,
+      "example": "Cade Klubnik",
+      "desc": "Player full name."
+    },
+    {
+      "name": "jersey",
+      "type": "string|int",
+      "required": false,
+      "example": "2",
+      "desc": "Jersey number; keep as string to preserve leading zeros if any."
+    },
+    {
+      "name": "pos",
+      "type": "string",
+      "required": true,
+      "example": "QB",
+      "desc": "Roster position abbreviation."
+    },
+    {
+      "name": "height",
+      "type": "string",
+      "required": false,
+      "example": "6020",
+      "desc": "Height as displayed; often in scouts-style inches (e.g., 6020 = 6'2\")."
+    },
+    {
+      "name": "weight",
+      "type": "string|int",
+      "required": false,
+      "example": "210",
+      "desc": "Weight in pounds."
+    },
+    {
+      "name": "class",
+      "type": "string",
+      "required": false,
+      "example": "JR / RS SO",
+      "desc": "Eligibility class reported by Ourlads."
+    },
+    {
+      "name": "high_school",
+      "type": "string",
+      "required": false,
+      "example": "Westlake",
+      "desc": "High school name where listed."
+    },
+    {
+      "name": "hometown",
+      "type": "string",
+      "required": false,
+      "example": "Austin, TX",
+      "desc": "Hometown as listed."
+    },
+    {
+      "name": "source_url",
+      "type": "string",
+      "required": true,
+      "example": "https://www.ourlads.com/ncaa-football-depth-charts/roster.aspx?id=91533&s=ohio-state",
+      "desc": "Roster page URL used for parsing."
+    }
+  ],
+  "PRIMARY_KEYS": [
+    "team_name",
+    "player_name",
+    "pos",
+    "source_url"
+  ],
+  "UNIQUENESS_NOTES": "Duplicate player names may appear across seasons/programs; include source_url in PK for uniqueness.",
+  "QUALITY_CHECKS": [
+    "Drop rows with missing player_name or pos.",
+    "Normalize whitespace; trim commas and extra spaces.",
+    "If jersey contains non-numeric characters, keep as-is (string).",
+    "Keep height as raw string; a separate transform can convert to inches."
+  ],
+  "TRANSFORM_NOTES": [
+    "Create derived fields later: height_in, bmi (requires height parse), class_bucket (FR/SO/JR/SR).",
+    "Conference realignment is fluid; store as of scrape date in a separate table if needed."
+  ],
+  "LICENSE_NOTES": "Use Ourlads data for academic research; respect site terms and robots directives.",
+  "CONTACT": "Maintainer: StatLock v2 (for Zynda PhD project)"
+}
