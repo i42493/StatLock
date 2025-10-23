@@ -1,0 +1,3173 @@
+[
+  {
+    "teamId": 1610612737,
+    "abbreviation": "ATL",
+    "teamName": "Atlanta Hawks",
+    "simpleName": "Hawks",
+    "location": "Atlanta",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "81673300",
+          "playerFirstName": "Trae",
+          "playerLastName": "Young"
+        },
+        {
+          "playerId": "79891066",
+          "playerFirstName": "Vit",
+          "playerLastName": "Krejci"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "17184777",
+          "playerFirstName": "Keaton",
+          "playerLastName": "Wallace"
+        },
+        {
+          "playerId": "47522787",
+          "playerFirstName": "Luke",
+          "playerLastName": "Kennard"
+        },
+        {
+          "playerId": "28952484",
+          "playerFirstName": "Dyson",
+          "playerLastName": "Daniels"
+        },
+        {
+          "playerId": "06620540",
+          "playerFirstName": "Nickeil",
+          "playerLastName": "Alexander-Walker"
+        },
+        {
+          "playerId": "53173307",
+          "playerFirstName": "Kristaps",
+          "playerLastName": "Porzingis"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "81731322",
+          "playerFirstName": "Jacob",
+          "playerLastName": "Toppin"
+        },
+        {
+          "playerId": "07233986",
+          "playerFirstName": "Zaccharie",
+          "playerLastName": "Risacher"
+        },
+        {
+          "playerId": "04993100",
+          "playerFirstName": "Mouhamed",
+          "playerLastName": "Gueye"
+        },
+        {
+          "playerId": "27330102",
+          "playerFirstName": "Nikola",
+          "playerLastName": "Djurisic"
+        },
+        {
+          "playerId": "68374341",
+          "playerFirstName": "Caleb",
+          "playerLastName": "Houstan"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "19705225",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Johnson"
+        },
+        {
+          "playerId": "21844342",
+          "playerFirstName": "N'Faly",
+          "playerLastName": "Dante"
+        },
+        {
+          "playerId": "25096856",
+          "playerFirstName": "Asa",
+          "playerLastName": "Newell"
+        },
+        {
+          "playerId": "86793081",
+          "playerFirstName": "Onyeka",
+          "playerLastName": "Okongwu"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "65257415",
+          "playerFirstName": "Eli",
+          "playerLastName": "N'Diaye"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612738,
+    "abbreviation": "BOS",
+    "teamName": "Boston Celtics",
+    "simpleName": "Celtics",
+    "location": "Boston",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "44487711",
+          "playerFirstName": "Payton",
+          "playerLastName": "Pritchard"
+        },
+        {
+          "playerId": "66341309",
+          "playerFirstName": "Baylor",
+          "playerLastName": "Scheierman"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "08593442",
+          "playerFirstName": "Anfernee",
+          "playerLastName": "Simons"
+        },
+        {
+          "playerId": "98201389",
+          "playerFirstName": "Derrick",
+          "playerLastName": "White"
+        },
+        {
+          "playerId": "28700942",
+          "playerFirstName": "Ron",
+          "playerLastName": "Harper"
+        },
+        {
+          "playerId": "43404208",
+          "playerFirstName": "Max",
+          "playerLastName": "Shulga"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "17759357",
+          "playerFirstName": "Jayson",
+          "playerLastName": "Tatum"
+        },
+        {
+          "playerId": "24598029",
+          "playerFirstName": "Jaylen",
+          "playerLastName": "Brown"
+        },
+        {
+          "playerId": "79912889",
+          "playerFirstName": "Josh",
+          "playerLastName": "Minott"
+        },
+        {
+          "playerId": "96304979",
+          "playerFirstName": "Jordan",
+          "playerLastName": "Walsh"
+        },
+        {
+          "playerId": "38610516",
+          "playerFirstName": "Hugo",
+          "playerLastName": "Gonzalez"
+        },
+        {
+          "playerId": "23535644",
+          "playerFirstName": "Sam",
+          "playerLastName": "Hauser"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "22639051",
+          "playerFirstName": "Xavier",
+          "playerLastName": "Tillman, Sr."
+        },
+        {
+          "playerId": "75690068",
+          "playerFirstName": "Amari",
+          "playerLastName": "Williams"
+        },
+        {
+          "playerId": "18055490",
+          "playerFirstName": "Chris",
+          "playerLastName": "Boucher"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "88026143",
+          "playerFirstName": "Luka",
+          "playerLastName": "Garza"
+        },
+        {
+          "playerId": "92674067",
+          "playerFirstName": "Neemias",
+          "playerLastName": "Queta"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612739,
+    "abbreviation": "CLE",
+    "teamName": "Cleveland Cavaliers",
+    "simpleName": "Cavaliers",
+    "location": "Cleveland",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "33199447",
+          "playerFirstName": "Lonzo",
+          "playerLastName": "Ball"
+        },
+        {
+          "playerId": "53447036",
+          "playerFirstName": "Tyrese",
+          "playerLastName": "Proctor"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "19680831",
+          "playerFirstName": "Max",
+          "playerLastName": "Strus"
+        },
+        {
+          "playerId": "94044131",
+          "playerFirstName": "Sam",
+          "playerLastName": "Merrill"
+        },
+        {
+          "playerId": "85241148",
+          "playerFirstName": "Craig",
+          "playerLastName": "Porter, Jr."
+        },
+        {
+          "playerId": "83051501",
+          "playerFirstName": "Darius",
+          "playerLastName": "Garland"
+        },
+        {
+          "playerId": "38011769",
+          "playerFirstName": "Donovan",
+          "playerLastName": "Mitchell"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "76296202",
+          "playerFirstName": "Jaylon",
+          "playerLastName": "Tyson"
+        },
+        {
+          "playerId": "06593332",
+          "playerFirstName": "Larry",
+          "playerLastName": "Nance, Jr."
+        },
+        {
+          "playerId": "79930367",
+          "playerFirstName": "Nae'qwan",
+          "playerLastName": "Tomlin"
+        },
+        {
+          "playerId": "42949711",
+          "playerFirstName": "Luke",
+          "playerLastName": "Travers"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "37964131",
+          "playerFirstName": "Evan",
+          "playerLastName": "Mobley"
+        },
+        {
+          "playerId": "09675765",
+          "playerFirstName": "De'Andre",
+          "playerLastName": "Hunter"
+        },
+        {
+          "playerId": "88563949",
+          "playerFirstName": "Dean",
+          "playerLastName": "Wade"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "05351189",
+          "playerFirstName": "Thomas",
+          "playerLastName": "Bryant"
+        },
+        {
+          "playerId": "21703684",
+          "playerFirstName": "Jarrett",
+          "playerLastName": "Allen"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612740,
+    "abbreviation": "NOP",
+    "teamName": "New Orleans Pelicans",
+    "simpleName": "Pelicans",
+    "location": "New Orleans",
+    "roster": {
+      "PG": [],
+      "SG": [
+        {
+          "playerId": "67707862",
+          "playerFirstName": "Jeremiah",
+          "playerLastName": "Fears"
+        },
+        {
+          "playerId": "35258684",
+          "playerFirstName": "Jordan",
+          "playerLastName": "Poole"
+        },
+        {
+          "playerId": "34918854",
+          "playerFirstName": "Dejounte",
+          "playerLastName": "Murray"
+        },
+        {
+          "playerId": "33646774",
+          "playerFirstName": "Jaden",
+          "playerLastName": "Springer"
+        },
+        {
+          "playerId": "47506614",
+          "playerFirstName": "Bryce",
+          "playerLastName": "McGowens"
+        },
+        {
+          "playerId": "61358234",
+          "playerFirstName": "Jose",
+          "playerLastName": "Alvarado"
+        },
+        {
+          "playerId": "54418602",
+          "playerFirstName": "Trey",
+          "playerLastName": "Alexander"
+        },
+        {
+          "playerId": "25783062",
+          "playerFirstName": "Jordan",
+          "playerLastName": "Hawkins"
+        },
+        {
+          "playerId": "34139088",
+          "playerFirstName": "Trey",
+          "playerLastName": "Murphy III"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "24666139",
+          "playerFirstName": "Herb",
+          "playerLastName": "Jones"
+        },
+        {
+          "playerId": "11594285",
+          "playerFirstName": "Micah",
+          "playerLastName": "Peavy"
+        },
+        {
+          "playerId": "24529243",
+          "playerFirstName": "Saddiq",
+          "playerLastName": "Bey"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "96721068",
+          "playerFirstName": "Zion",
+          "playerLastName": "Williamson"
+        },
+        {
+          "playerId": "71786247",
+          "playerFirstName": "Karlo",
+          "playerLastName": "Matkovic"
+        },
+        {
+          "playerId": "31545766",
+          "playerFirstName": "Kevon",
+          "playerLastName": "Looney"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "37291084",
+          "playerFirstName": "Hunter",
+          "playerLastName": "Dickinson"
+        },
+        {
+          "playerId": "54403119",
+          "playerFirstName": "Yves",
+          "playerLastName": "Missi"
+        },
+        {
+          "playerId": "39195232",
+          "playerFirstName": "Derik",
+          "playerLastName": "Queen"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612741,
+    "abbreviation": "CHI",
+    "teamName": "Chicago Bulls",
+    "simpleName": "Bulls",
+    "location": "Chicago",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "96593143",
+          "playerFirstName": "Coby",
+          "playerLastName": "White"
+        },
+        {
+          "playerId": "10812856",
+          "playerFirstName": "Jevon",
+          "playerLastName": "Carter"
+        },
+        {
+          "playerId": "41293135",
+          "playerFirstName": "Dalen",
+          "playerLastName": "Terry"
+        },
+        {
+          "playerId": "09716825",
+          "playerFirstName": "Ayo",
+          "playerLastName": "Dosunmu"
+        },
+        {
+          "playerId": "13514787",
+          "playerFirstName": "Tre",
+          "playerLastName": "Jones"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "36256496",
+          "playerFirstName": "Josh",
+          "playerLastName": "Giddey"
+        },
+        {
+          "playerId": "19187041",
+          "playerFirstName": "Isaac",
+          "playerLastName": "Okoro"
+        },
+        {
+          "playerId": "43992006",
+          "playerFirstName": "Patrick",
+          "playerLastName": "Williams"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "44745156",
+          "playerFirstName": "Trentyn",
+          "playerLastName": "Flowers"
+        },
+        {
+          "playerId": "53003282",
+          "playerFirstName": "Emanuel",
+          "playerLastName": "Miller"
+        },
+        {
+          "playerId": "51343376",
+          "playerFirstName": "Kevin",
+          "playerLastName": "Huerter"
+        },
+        {
+          "playerId": "35473951",
+          "playerFirstName": "Matas",
+          "playerLastName": "Buzelis"
+        },
+        {
+          "playerId": "43499202",
+          "playerFirstName": "Julian",
+          "playerLastName": "Phillips"
+        },
+        {
+          "playerId": "19661033",
+          "playerFirstName": "Noa",
+          "playerLastName": "Essengue"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "31279130",
+          "playerFirstName": "Nikola",
+          "playerLastName": "Vucevic"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "78804844",
+          "playerFirstName": "Zach",
+          "playerLastName": "Collins"
+        },
+        {
+          "playerId": "79673326",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Smith"
+        },
+        {
+          "playerId": "26643569",
+          "playerFirstName": "Lachlan",
+          "playerLastName": "Olbrich"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612742,
+    "abbreviation": "DAL",
+    "teamName": "Dallas Mavericks",
+    "simpleName": "Mavericks",
+    "location": "Dallas",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "24290627",
+          "playerFirstName": "Dante",
+          "playerLastName": "Exum"
+        },
+        {
+          "playerId": "46533141",
+          "playerFirstName": "Ryan",
+          "playerLastName": "Nembhard"
+        },
+        {
+          "playerId": "06625943",
+          "playerFirstName": "Brandon",
+          "playerLastName": "Williams"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "28886631",
+          "playerFirstName": "Jaden",
+          "playerLastName": "Hardy"
+        },
+        {
+          "playerId": "45640349",
+          "playerFirstName": "D'Angelo",
+          "playerLastName": "Russell"
+        },
+        {
+          "playerId": "88259870",
+          "playerFirstName": "Kyrie",
+          "playerLastName": "Irving"
+        },
+        {
+          "playerId": "12018946",
+          "playerFirstName": "Klay",
+          "playerLastName": "Thompson"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "51521180",
+          "playerFirstName": "Max",
+          "playerLastName": "Christie"
+        },
+        {
+          "playerId": "66430367",
+          "playerFirstName": "Naji",
+          "playerLastName": "Marshall"
+        },
+        {
+          "playerId": "73350328",
+          "playerFirstName": "Miles",
+          "playerLastName": "Kelly"
+        },
+        {
+          "playerId": "28662205",
+          "playerFirstName": "Caleb",
+          "playerLastName": "Martin"
+        },
+        {
+          "playerId": "98607444",
+          "playerFirstName": "Cooper",
+          "playerLastName": "Flagg"
+        },
+        {
+          "playerId": "18613745",
+          "playerFirstName": "Moussa",
+          "playerLastName": "Cisse"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "34555552",
+          "playerFirstName": "Anthony",
+          "playerLastName": "Davis"
+        },
+        {
+          "playerId": "55899316",
+          "playerFirstName": "Dwight",
+          "playerLastName": "Powell"
+        },
+        {
+          "playerId": "49990734",
+          "playerFirstName": "P.J.",
+          "playerLastName": "Washington"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "24494081",
+          "playerFirstName": "Dereck",
+          "playerLastName": "Lively II"
+        },
+        {
+          "playerId": "23111017",
+          "playerFirstName": "Daniel",
+          "playerLastName": "Gafford"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612743,
+    "abbreviation": "DEN",
+    "teamName": "Denver Nuggets",
+    "simpleName": "Nuggets",
+    "location": "Denver",
+    "roster": {
+      "PG": [],
+      "SG": [
+        {
+          "playerId": "13576909",
+          "playerFirstName": "Curtis",
+          "playerLastName": "Jones"
+        },
+        {
+          "playerId": "15040609",
+          "playerFirstName": "Julian",
+          "playerLastName": "Strawther"
+        },
+        {
+          "playerId": "34118661",
+          "playerFirstName": "Tamar",
+          "playerLastName": "Bates"
+        },
+        {
+          "playerId": "85912672",
+          "playerFirstName": "Peyton",
+          "playerLastName": "Watson"
+        },
+        {
+          "playerId": "17264778",
+          "playerFirstName": "Tim",
+          "playerLastName": "Hardaway Jr."
+        },
+        {
+          "playerId": "36343858",
+          "playerFirstName": "Bruce",
+          "playerLastName": "Brown, Jr."
+        },
+        {
+          "playerId": "50634343",
+          "playerFirstName": "Cameron",
+          "playerLastName": "Johnson"
+        },
+        {
+          "playerId": "67107668",
+          "playerFirstName": "Jamal",
+          "playerLastName": "Murray"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "97292219",
+          "playerFirstName": "Christian",
+          "playerLastName": "Braun"
+        },
+        {
+          "playerId": "23739815",
+          "playerFirstName": "Hunter",
+          "playerLastName": "Tyson"
+        },
+        {
+          "playerId": "48760124",
+          "playerFirstName": "Spencer",
+          "playerLastName": "Jones"
+        },
+        {
+          "playerId": "75977681",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Pickett"
+        },
+        {
+          "playerId": "89557745",
+          "playerFirstName": "Aaron",
+          "playerLastName": "Gordon"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "28763822",
+          "playerFirstName": "DaRon",
+          "playerLastName": "Holmes II"
+        },
+        {
+          "playerId": "62654866",
+          "playerFirstName": "Zeke",
+          "playerLastName": "Nnaji"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "92146625",
+          "playerFirstName": "Nikola",
+          "playerLastName": "Jokic"
+        },
+        {
+          "playerId": "03463241",
+          "playerFirstName": "Jonas",
+          "playerLastName": "Valanciunas"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612744,
+    "abbreviation": "GSW",
+    "teamName": "Golden State Warriors",
+    "simpleName": "Warriors",
+    "location": "Golden State",
+    "roster": {
+      "PG": [],
+      "SG": [
+        {
+          "playerId": "76798467",
+          "playerFirstName": "Gary",
+          "playerLastName": "Payton II"
+        },
+        {
+          "playerId": "27001226",
+          "playerFirstName": "Brandin",
+          "playerLastName": "Podziemski"
+        },
+        {
+          "playerId": "36153091",
+          "playerFirstName": "Moses",
+          "playerLastName": "Moody"
+        },
+        {
+          "playerId": "84398573",
+          "playerFirstName": "Buddy",
+          "playerLastName": "Hield"
+        },
+        {
+          "playerId": "08109987",
+          "playerFirstName": "De'Anthony",
+          "playerLastName": "Melton"
+        },
+        {
+          "playerId": "71683071",
+          "playerFirstName": "Jimmy",
+          "playerLastName": "Butler III"
+        },
+        {
+          "playerId": "87182616",
+          "playerFirstName": "Gui",
+          "playerLastName": "Santos"
+        },
+        {
+          "playerId": "03474159",
+          "playerFirstName": "Al",
+          "playerLastName": "Horford"
+        },
+        {
+          "playerId": "07172839",
+          "playerFirstName": "Stephen",
+          "playerLastName": "Curry"
+        },
+        {
+          "playerId": "29371790",
+          "playerFirstName": "Pat",
+          "playerLastName": "Spencer"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "33971140",
+          "playerFirstName": "Jonathan",
+          "playerLastName": "Kuminga"
+        },
+        {
+          "playerId": "00081953",
+          "playerFirstName": "Will",
+          "playerLastName": "Richard"
+        },
+        {
+          "playerId": "37645593",
+          "playerFirstName": "Alex",
+          "playerLastName": "Toohey"
+        },
+        {
+          "playerId": "44265983",
+          "playerFirstName": "Draymond",
+          "playerLastName": "Green"
+        },
+        {
+          "playerId": "90465107",
+          "playerFirstName": "Trayce",
+          "playerLastName": "Jackson-Davis"
+        },
+        {
+          "playerId": "53323713",
+          "playerFirstName": "Jackson",
+          "playerLastName": "Rowe"
+        }
+      ],
+      "PF": [],
+      "C": [
+        {
+          "playerId": "88493298",
+          "playerFirstName": "Quinten",
+          "playerLastName": "Post"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612745,
+    "abbreviation": "HOU",
+    "teamName": "Houston Rockets",
+    "simpleName": "Rockets",
+    "location": "Houston",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "41810223",
+          "playerFirstName": "Aaron",
+          "playerLastName": "Holiday"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "98278754",
+          "playerFirstName": "Amen",
+          "playerLastName": "Thompson"
+        },
+        {
+          "playerId": "41981074",
+          "playerFirstName": "Fred",
+          "playerLastName": "VanVleet"
+        },
+        {
+          "playerId": "88264627",
+          "playerFirstName": "Reed",
+          "playerLastName": "Sheppard"
+        },
+        {
+          "playerId": "49337206",
+          "playerFirstName": "Josh",
+          "playerLastName": "Okogie"
+        },
+        {
+          "playerId": "44455706",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Crawford"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "85311264",
+          "playerFirstName": "Kevon",
+          "playerLastName": "Harris"
+        },
+        {
+          "playerId": "41834308",
+          "playerFirstName": "Dorian",
+          "playerLastName": "Finney-Smith"
+        },
+        {
+          "playerId": "18159998",
+          "playerFirstName": "J.D.",
+          "playerLastName": "Davison"
+        },
+        {
+          "playerId": "74102092",
+          "playerFirstName": "Kevin",
+          "playerLastName": "Durant"
+        },
+        {
+          "playerId": "78082448",
+          "playerFirstName": "Jae'sean",
+          "playerLastName": "Tate"
+        },
+        {
+          "playerId": "07718349",
+          "playerFirstName": "Jabari",
+          "playerLastName": "Smith, Jr."
+        },
+        {
+          "playerId": "09213271",
+          "playerFirstName": "Tari",
+          "playerLastName": "Eason"
+        },
+        {
+          "playerId": "23955952",
+          "playerFirstName": "Jeff",
+          "playerLastName": "Green"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "76946728",
+          "playerFirstName": "Clint",
+          "playerLastName": "Capela"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "34737826",
+          "playerFirstName": "Steven",
+          "playerLastName": "Adams"
+        },
+        {
+          "playerId": "53381148",
+          "playerFirstName": "Alperen",
+          "playerLastName": "Sengun"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612746,
+    "abbreviation": "LAC",
+    "teamName": "Los Angeles Clippers",
+    "simpleName": "Clippers",
+    "location": "Los Angeles",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "84414649",
+          "playerFirstName": "Chris",
+          "playerLastName": "Paul"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "14331356",
+          "playerFirstName": "Bradley",
+          "playerLastName": "Beal"
+        },
+        {
+          "playerId": "11707276",
+          "playerFirstName": "James",
+          "playerLastName": "Harden"
+        },
+        {
+          "playerId": "86083586",
+          "playerFirstName": "Kris",
+          "playerLastName": "Dunn"
+        },
+        {
+          "playerId": "15520854",
+          "playerFirstName": "Bogdan",
+          "playerLastName": "Bogdanovic"
+        },
+        {
+          "playerId": "21368367",
+          "playerFirstName": "Cameron",
+          "playerLastName": "Christie"
+        },
+        {
+          "playerId": "25908412",
+          "playerFirstName": "Jordan",
+          "playerLastName": "Miller"
+        },
+        {
+          "playerId": "48975914",
+          "playerFirstName": "Kobe",
+          "playerLastName": "Brown"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "32182735",
+          "playerFirstName": "Kawhi",
+          "playerLastName": "Leonard"
+        },
+        {
+          "playerId": "71206554",
+          "playerFirstName": "Kobe",
+          "playerLastName": "Sanders"
+        },
+        {
+          "playerId": "41138029",
+          "playerFirstName": "Derrick",
+          "playerLastName": "Jones"
+        },
+        {
+          "playerId": "07350807",
+          "playerFirstName": "Yanic Konan",
+          "playerLastName": "Niederhauser"
+        },
+        {
+          "playerId": "80150936",
+          "playerFirstName": "Jahmyl",
+          "playerLastName": "Telfort"
+        },
+        {
+          "playerId": "74508548",
+          "playerFirstName": "Nicolas",
+          "playerLastName": "Batum"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "53645894",
+          "playerFirstName": "John",
+          "playerLastName": "Collins"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "06205812",
+          "playerFirstName": "Brook",
+          "playerLastName": "Lopez"
+        },
+        {
+          "playerId": "93316590",
+          "playerFirstName": "Ivica",
+          "playerLastName": "Zubac"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612747,
+    "abbreviation": "LAL",
+    "teamName": "Los Angeles Lakers",
+    "simpleName": "Lakers",
+    "location": "Los Angeles",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "64742381",
+          "playerFirstName": "Austin",
+          "playerLastName": "Reaves"
+        },
+        {
+          "playerId": "46400121",
+          "playerFirstName": "Marcus",
+          "playerLastName": "Smart"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "98098825",
+          "playerFirstName": "Adou",
+          "playerLastName": "Thiero"
+        },
+        {
+          "playerId": "80477918",
+          "playerFirstName": "Gabe",
+          "playerLastName": "Vincent"
+        },
+        {
+          "playerId": "21638814",
+          "playerFirstName": "Bronny",
+          "playerLastName": "James"
+        },
+        {
+          "playerId": "35926096",
+          "playerFirstName": "Nick",
+          "playerLastName": "Smith, Jr."
+        },
+        {
+          "playerId": "44007135",
+          "playerFirstName": "Chris",
+          "playerLastName": "Manon"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "93964523",
+          "playerFirstName": "Dalton",
+          "playerLastName": "Knecht"
+        },
+        {
+          "playerId": "78242868",
+          "playerFirstName": "Jake",
+          "playerLastName": "LaRavia"
+        },
+        {
+          "playerId": "98929241",
+          "playerFirstName": "LeBron",
+          "playerLastName": "James"
+        },
+        {
+          "playerId": "63726739",
+          "playerFirstName": "Rui",
+          "playerLastName": "Hachimura"
+        },
+        {
+          "playerId": "06699779",
+          "playerFirstName": "Luka",
+          "playerLastName": "Doncic"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "91277568",
+          "playerFirstName": "Jarred",
+          "playerLastName": "Vanderbilt"
+        },
+        {
+          "playerId": "58575615",
+          "playerFirstName": "Jaxson",
+          "playerLastName": "Hayes"
+        },
+        {
+          "playerId": "02569119",
+          "playerFirstName": "Maxi",
+          "playerLastName": "Kleber"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "17290055",
+          "playerFirstName": "Deandre",
+          "playerLastName": "Ayton"
+        },
+        {
+          "playerId": "81328086",
+          "playerFirstName": "Christian",
+          "playerLastName": "Koloko"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612748,
+    "abbreviation": "MIA",
+    "teamName": "Miami Heat",
+    "simpleName": "Heat",
+    "location": "Miami",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "81066075",
+          "playerFirstName": "Jahmir",
+          "playerLastName": "Young"
+        },
+        {
+          "playerId": "42837177",
+          "playerFirstName": "Davion",
+          "playerLastName": "Mitchell"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "92465473",
+          "playerFirstName": "Terry",
+          "playerLastName": "Rozier"
+        },
+        {
+          "playerId": "61955383",
+          "playerFirstName": "Pelle",
+          "playerLastName": "Larsson"
+        },
+        {
+          "playerId": "52420524",
+          "playerFirstName": "Jaime",
+          "playerLastName": "Jaquez, Jr."
+        },
+        {
+          "playerId": "28548333",
+          "playerFirstName": "Dru",
+          "playerLastName": "Smith"
+        },
+        {
+          "playerId": "65715813",
+          "playerFirstName": "Tyler",
+          "playerLastName": "Herro"
+        },
+        {
+          "playerId": "31695107",
+          "playerFirstName": "Myron",
+          "playerLastName": "Gardner"
+        },
+        {
+          "playerId": "70410646",
+          "playerFirstName": "Norman",
+          "playerLastName": "Powell"
+        },
+        {
+          "playerId": "22701108",
+          "playerFirstName": "Kasparas",
+          "playerLastName": "Jakucionis"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "72406224",
+          "playerFirstName": "Simone",
+          "playerLastName": "Fontecchio"
+        },
+        {
+          "playerId": "08472972",
+          "playerFirstName": "Nikola",
+          "playerLastName": "Jovic"
+        },
+        {
+          "playerId": "48710884",
+          "playerFirstName": "Keshad",
+          "playerLastName": "Johnson"
+        },
+        {
+          "playerId": "90500790",
+          "playerFirstName": "Andrew",
+          "playerLastName": "Wiggins"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "77685432",
+          "playerFirstName": "Kel'el",
+          "playerLastName": "Ware"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "52420407",
+          "playerFirstName": "Bam",
+          "playerLastName": "Adebayo"
+        },
+        {
+          "playerId": "35657828",
+          "playerFirstName": "Vladislav",
+          "playerLastName": "Goldin"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612749,
+    "abbreviation": "MIL",
+    "teamName": "Milwaukee Bucks",
+    "simpleName": "Bucks",
+    "location": "Milwaukee",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "21338557",
+          "playerFirstName": "A.J.",
+          "playerLastName": "Green"
+        },
+        {
+          "playerId": "32530356",
+          "playerFirstName": "Cole",
+          "playerLastName": "Anthony"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "84142995",
+          "playerFirstName": "Myles",
+          "playerLastName": "Turner"
+        },
+        {
+          "playerId": "28105044",
+          "playerFirstName": "Gary",
+          "playerLastName": "Trent, Jr."
+        },
+        {
+          "playerId": "80838908",
+          "playerFirstName": "Gary",
+          "playerLastName": "Harris"
+        },
+        {
+          "playerId": "10276526",
+          "playerFirstName": "Ryan",
+          "playerLastName": "Rollins"
+        },
+        {
+          "playerId": "84292291",
+          "playerFirstName": "Mark",
+          "playerLastName": "Sears"
+        },
+        {
+          "playerId": "09581972",
+          "playerFirstName": "Andre",
+          "playerLastName": "Jackson, Jr."
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "66632926",
+          "playerFirstName": "Kevin",
+          "playerLastName": "Porter, Jr."
+        },
+        {
+          "playerId": "62024804",
+          "playerFirstName": "Taurean",
+          "playerLastName": "Prince"
+        },
+        {
+          "playerId": "87723291",
+          "playerFirstName": "Amir",
+          "playerLastName": "Coffey"
+        },
+        {
+          "playerId": "49766982",
+          "playerFirstName": "Kyle",
+          "playerLastName": "Kuzma"
+        },
+        {
+          "playerId": "83185594",
+          "playerFirstName": "Alex",
+          "playerLastName": "Antetokounmpo"
+        },
+        {
+          "playerId": "16383604",
+          "playerFirstName": "Giannis",
+          "playerLastName": "Antetokounmpo"
+        },
+        {
+          "playerId": "47138996",
+          "playerFirstName": "Thanasis",
+          "playerLastName": "Antetokounmpo"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "67599098",
+          "playerFirstName": "Bobby",
+          "playerLastName": "Portis"
+        },
+        {
+          "playerId": "93028644",
+          "playerFirstName": "Pete",
+          "playerLastName": "Nance"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "75259339",
+          "playerFirstName": "Jericho",
+          "playerLastName": "Sims"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612750,
+    "abbreviation": "MIN",
+    "teamName": "Minnesota Timberwolves",
+    "simpleName": "Timberwolves",
+    "location": "Minnesota",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "75830231",
+          "playerFirstName": "Mike",
+          "playerLastName": "Conley"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "49426925",
+          "playerFirstName": "Donte",
+          "playerLastName": "DiVincenzo"
+        },
+        {
+          "playerId": "06472475",
+          "playerFirstName": "Rob",
+          "playerLastName": "Dillingham"
+        },
+        {
+          "playerId": "64822138",
+          "playerFirstName": "Bones",
+          "playerLastName": "Hyland"
+        },
+        {
+          "playerId": "69507929",
+          "playerFirstName": "Johnny",
+          "playerLastName": "Juzang"
+        },
+        {
+          "playerId": "72655591",
+          "playerFirstName": "Jaylen",
+          "playerLastName": "Clark"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "52565613",
+          "playerFirstName": "Terrence",
+          "playerLastName": "Shannon, Jr."
+        },
+        {
+          "playerId": "10034582",
+          "playerFirstName": "Jaden",
+          "playerLastName": "McDaniels"
+        },
+        {
+          "playerId": "75395016",
+          "playerFirstName": "Anthony",
+          "playerLastName": "Edwards"
+        },
+        {
+          "playerId": "23118750",
+          "playerFirstName": "Joe",
+          "playerLastName": "Ingles"
+        },
+        {
+          "playerId": "87979346",
+          "playerFirstName": "Enrique",
+          "playerLastName": "Freeman"
+        },
+        {
+          "playerId": "30215069",
+          "playerFirstName": "Leonard",
+          "playerLastName": "Miller"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "13540240",
+          "playerFirstName": "Julius",
+          "playerLastName": "Randle"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "36532928",
+          "playerFirstName": "Naz",
+          "playerLastName": "Reid"
+        },
+        {
+          "playerId": "98245519",
+          "playerFirstName": "Joan",
+          "playerLastName": "Beringer"
+        },
+        {
+          "playerId": "15244890",
+          "playerFirstName": "Rudy",
+          "playerLastName": "Gobert"
+        },
+        {
+          "playerId": "03739887",
+          "playerFirstName": "Rocco",
+          "playerLastName": "Zikarsky"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612751,
+    "abbreviation": "BKN",
+    "teamName": "Brooklyn Nets",
+    "simpleName": "Nets",
+    "location": "Brooklyn",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "00575481",
+          "playerFirstName": "Egor",
+          "playerLastName": "Demin"
+        },
+        {
+          "playerId": "44444915",
+          "playerFirstName": "Cam",
+          "playerLastName": "Thomas"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "55600840",
+          "playerFirstName": "Tyson",
+          "playerLastName": "Etienne"
+        },
+        {
+          "playerId": "13657269",
+          "playerFirstName": "Tyrese",
+          "playerLastName": "Martin"
+        },
+        {
+          "playerId": "93080484",
+          "playerFirstName": "Terance",
+          "playerLastName": "Mann"
+        },
+        {
+          "playerId": "77812794",
+          "playerFirstName": "Ben",
+          "playerLastName": "Saraf"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "38804279",
+          "playerFirstName": "Ziaire",
+          "playerLastName": "Williams"
+        },
+        {
+          "playerId": "98910618",
+          "playerFirstName": "Drake",
+          "playerLastName": "Powell"
+        },
+        {
+          "playerId": "11132818",
+          "playerFirstName": "Haywood",
+          "playerLastName": "Highsmith"
+        },
+        {
+          "playerId": "94205749",
+          "playerFirstName": "Noah",
+          "playerLastName": "Clowney"
+        },
+        {
+          "playerId": "01938064",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Wilson"
+        },
+        {
+          "playerId": "99197366",
+          "playerFirstName": "Nolan",
+          "playerLastName": "Traore"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "33275734",
+          "playerFirstName": "E.J.",
+          "playerLastName": "Liddell"
+        },
+        {
+          "playerId": "43707026",
+          "playerFirstName": "Michael",
+          "playerLastName": "Porter, Jr."
+        },
+        {
+          "playerId": "36774958",
+          "playerFirstName": "Day'Ron",
+          "playerLastName": "Sharpe"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "13125360",
+          "playerFirstName": "Danny",
+          "playerLastName": "Wolf"
+        },
+        {
+          "playerId": "93143978",
+          "playerFirstName": "Nicolas",
+          "playerLastName": "Claxton"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612752,
+    "abbreviation": "NYK",
+    "teamName": "New York Knicks",
+    "simpleName": "Knicks",
+    "location": "New York",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "18003104",
+          "playerFirstName": "Kevin",
+          "playerLastName": "McCullar, Jr."
+        },
+        {
+          "playerId": "95577731",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Brunson"
+        },
+        {
+          "playerId": "98694599",
+          "playerFirstName": "Landry",
+          "playerLastName": "Shamet"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "63632649",
+          "playerFirstName": "Jordan",
+          "playerLastName": "Clarkson"
+        },
+        {
+          "playerId": "60188479",
+          "playerFirstName": "Miles",
+          "playerLastName": "McBride"
+        },
+        {
+          "playerId": "49292499",
+          "playerFirstName": "Josh",
+          "playerLastName": "Hart"
+        },
+        {
+          "playerId": "82043662",
+          "playerFirstName": "Tyler",
+          "playerLastName": "Kolek"
+        },
+        {
+          "playerId": "65698854",
+          "playerFirstName": "Mikal",
+          "playerLastName": "Bridges"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "56378157",
+          "playerFirstName": "Pacome",
+          "playerLastName": "Dadiet"
+        },
+        {
+          "playerId": "25448112",
+          "playerFirstName": "OG",
+          "playerLastName": "Anunoby"
+        },
+        {
+          "playerId": "15108712",
+          "playerFirstName": "Tosan",
+          "playerLastName": "Evbuomwan"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "59100285",
+          "playerFirstName": "Guerschon",
+          "playerLastName": "Yabusele"
+        },
+        {
+          "playerId": "56808633",
+          "playerFirstName": "Trey",
+          "playerLastName": "Jemison"
+        },
+        {
+          "playerId": "84307869",
+          "playerFirstName": "Mohamed",
+          "playerLastName": "Diawara"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "18088332",
+          "playerFirstName": "Mitchell",
+          "playerLastName": "Robinson"
+        },
+        {
+          "playerId": "78814188",
+          "playerFirstName": "Karl-Anthony",
+          "playerLastName": "Towns"
+        },
+        {
+          "playerId": "34628039",
+          "playerFirstName": "Ariel",
+          "playerLastName": "Hukporti"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612753,
+    "abbreviation": "ORL",
+    "teamName": "Orlando Magic",
+    "simpleName": "Magic",
+    "location": "Orlando",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "73979147",
+          "playerFirstName": "Tyus",
+          "playerLastName": "Jones"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "82864840",
+          "playerFirstName": "Anthony",
+          "playerLastName": "Black"
+        },
+        {
+          "playerId": "43625381",
+          "playerFirstName": "Desmond",
+          "playerLastName": "Bane"
+        },
+        {
+          "playerId": "16620259",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Suggs"
+        },
+        {
+          "playerId": "82346153",
+          "playerFirstName": "Jase",
+          "playerLastName": "Richardson"
+        },
+        {
+          "playerId": "39836605",
+          "playerFirstName": "Jett",
+          "playerLastName": "Howard"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "49313011",
+          "playerFirstName": "Jonathan",
+          "playerLastName": "Isaac"
+        },
+        {
+          "playerId": "40265152",
+          "playerFirstName": "Jamal",
+          "playerLastName": "Cain"
+        },
+        {
+          "playerId": "07161946",
+          "playerFirstName": "Franz",
+          "playerLastName": "Wagner"
+        },
+        {
+          "playerId": "47783981",
+          "playerFirstName": "Tristan Da",
+          "playerLastName": "Silva"
+        },
+        {
+          "playerId": "66147334",
+          "playerFirstName": "Noah",
+          "playerLastName": "Penda"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "98767399",
+          "playerFirstName": "Orlando",
+          "playerLastName": "Robinson"
+        },
+        {
+          "playerId": "26803587",
+          "playerFirstName": "Colin",
+          "playerLastName": "Castleton"
+        },
+        {
+          "playerId": "07442138",
+          "playerFirstName": "Moe",
+          "playerLastName": "Wagner"
+        },
+        {
+          "playerId": "10439276",
+          "playerFirstName": "Wendell",
+          "playerLastName": "Carter, Jr."
+        }
+      ],
+      "C": [
+        {
+          "playerId": "07301416",
+          "playerFirstName": "Paolo",
+          "playerLastName": "Banchero"
+        },
+        {
+          "playerId": "90410242",
+          "playerFirstName": "Goga",
+          "playerLastName": "Bitadze"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612754,
+    "abbreviation": "IND",
+    "teamName": "Indiana Pacers",
+    "simpleName": "Pacers",
+    "location": "Indiana",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "68963935",
+          "playerFirstName": "Tyrese",
+          "playerLastName": "Haliburton"
+        },
+        {
+          "playerId": "24904346",
+          "playerFirstName": "Andrew",
+          "playerLastName": "Nembhard"
+        },
+        {
+          "playerId": "26112176",
+          "playerFirstName": "RayJ",
+          "playerLastName": "Dennis"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "91743515",
+          "playerFirstName": "Bennedict",
+          "playerLastName": "Mathurin"
+        },
+        {
+          "playerId": "30452310",
+          "playerFirstName": "Taelon",
+          "playerLastName": "Peter"
+        },
+        {
+          "playerId": "71846934",
+          "playerFirstName": "Jarace",
+          "playerLastName": "Walker"
+        },
+        {
+          "playerId": "30598668",
+          "playerFirstName": "T.J.",
+          "playerLastName": "McConnell"
+        },
+        {
+          "playerId": "26214938",
+          "playerFirstName": "Ben",
+          "playerLastName": "Sheppard"
+        },
+        {
+          "playerId": "59213787",
+          "playerFirstName": "Quenton",
+          "playerLastName": "Jackson"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "97201145",
+          "playerFirstName": "Obi",
+          "playerLastName": "Toppin"
+        },
+        {
+          "playerId": "88513223",
+          "playerFirstName": "Kam",
+          "playerLastName": "Jones"
+        },
+        {
+          "playerId": "00608932",
+          "playerFirstName": "Johnny",
+          "playerLastName": "Furphy"
+        },
+        {
+          "playerId": "80413042",
+          "playerFirstName": "Aaron",
+          "playerLastName": "Nesmith"
+        },
+        {
+          "playerId": "75137079",
+          "playerFirstName": "Pascal",
+          "playerLastName": "Siakam"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "68823802",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Jackson"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "28271043",
+          "playerFirstName": "James",
+          "playerLastName": "Wiseman"
+        },
+        {
+          "playerId": "58342863",
+          "playerFirstName": "Tony",
+          "playerLastName": "Bradley"
+        },
+        {
+          "playerId": "82053634",
+          "playerFirstName": "James",
+          "playerLastName": "Huff"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612755,
+    "abbreviation": "PHI",
+    "teamName": "Philadelphia 76ers",
+    "simpleName": "76ers",
+    "location": "Philadelphia",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "25053282",
+          "playerFirstName": "Tyrese",
+          "playerLastName": "Maxey"
+        },
+        {
+          "playerId": "17465292",
+          "playerFirstName": "Kyle",
+          "playerLastName": "Lowry"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "50741030",
+          "playerFirstName": "Quentin",
+          "playerLastName": "Grimes"
+        },
+        {
+          "playerId": "73976123",
+          "playerFirstName": "Paul",
+          "playerLastName": "George"
+        },
+        {
+          "playerId": "36776082",
+          "playerFirstName": "Jared",
+          "playerLastName": "McCain"
+        },
+        {
+          "playerId": "46350916",
+          "playerFirstName": "Eric",
+          "playerLastName": "Gordon"
+        },
+        {
+          "playerId": "24728535",
+          "playerFirstName": "Hunter",
+          "playerLastName": "Sallis"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "61813913",
+          "playerFirstName": "Kelly",
+          "playerLastName": "Oubre, Jr."
+        },
+        {
+          "playerId": "57852840",
+          "playerFirstName": "Justin",
+          "playerLastName": "Edwards"
+        },
+        {
+          "playerId": "45012837",
+          "playerFirstName": "Trendon",
+          "playerLastName": "Watford"
+        },
+        {
+          "playerId": "12184809",
+          "playerFirstName": "Dominick",
+          "playerLastName": "Barlow"
+        },
+        {
+          "playerId": "29803921",
+          "playerFirstName": "Jabari",
+          "playerLastName": "Walker"
+        },
+        {
+          "playerId": "90434487",
+          "playerFirstName": "V.J.",
+          "playerLastName": "Edgecombe"
+        }
+      ],
+      "PF": [],
+      "C": [
+        {
+          "playerId": "56388896",
+          "playerFirstName": "Andre",
+          "playerLastName": "Drummond"
+        },
+        {
+          "playerId": "14871580",
+          "playerFirstName": "Joel",
+          "playerLastName": "Embiid"
+        },
+        {
+          "playerId": "77339342",
+          "playerFirstName": "Johni",
+          "playerLastName": "Broome"
+        },
+        {
+          "playerId": "22344810",
+          "playerFirstName": "Adem",
+          "playerLastName": "Bona"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612756,
+    "abbreviation": "PHX",
+    "teamName": "Phoenix Suns",
+    "simpleName": "Suns",
+    "location": "Phoenix",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "94739995",
+          "playerFirstName": "Collin",
+          "playerLastName": "Gillespie"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "91914381",
+          "playerFirstName": "Ryan",
+          "playerLastName": "Dunn"
+        },
+        {
+          "playerId": "59153739",
+          "playerFirstName": "Devin",
+          "playerLastName": "Booker"
+        },
+        {
+          "playerId": "38748973",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Green"
+        },
+        {
+          "playerId": "77593120",
+          "playerFirstName": "Grayson",
+          "playerLastName": "Allen"
+        },
+        {
+          "playerId": "48785831",
+          "playerFirstName": "Koby",
+          "playerLastName": "Brea"
+        },
+        {
+          "playerId": "54593865",
+          "playerFirstName": "Jordan",
+          "playerLastName": "Goodwin"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "64412704",
+          "playerFirstName": "Royce",
+          "playerLastName": "O'Neale"
+        },
+        {
+          "playerId": "90524590",
+          "playerFirstName": "Dillon",
+          "playerLastName": "Brooks"
+        },
+        {
+          "playerId": "36801776",
+          "playerFirstName": "Oso",
+          "playerLastName": "Ighodaro"
+        },
+        {
+          "playerId": "96859805",
+          "playerFirstName": "Rasheer",
+          "playerLastName": "Fleming"
+        },
+        {
+          "playerId": "71000814",
+          "playerFirstName": "Nigel",
+          "playerLastName": "Hayes-Davis"
+        },
+        {
+          "playerId": "11147317",
+          "playerFirstName": "C.J.",
+          "playerLastName": "Huntley"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "75997624",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Livers"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "71986165",
+          "playerFirstName": "Nick",
+          "playerLastName": "Richards"
+        },
+        {
+          "playerId": "08633834",
+          "playerFirstName": "Khaman",
+          "playerLastName": "Maluach"
+        },
+        {
+          "playerId": "51026291",
+          "playerFirstName": "Mark",
+          "playerLastName": "Williams"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612757,
+    "abbreviation": "POR",
+    "teamName": "Portland Trail Blazers",
+    "simpleName": "Trail Blazers",
+    "location": "Portland",
+    "roster": {
+      "PG": [],
+      "SG": [
+        {
+          "playerId": "99886672",
+          "playerFirstName": "Javonte",
+          "playerLastName": "Cooke"
+        },
+        {
+          "playerId": "93150703",
+          "playerFirstName": "Scoot",
+          "playerLastName": "Henderson"
+        },
+        {
+          "playerId": "82109166",
+          "playerFirstName": "Damian",
+          "playerLastName": "Lillard"
+        },
+        {
+          "playerId": "23552772",
+          "playerFirstName": "Blake",
+          "playerLastName": "Wesley"
+        },
+        {
+          "playerId": "65889528",
+          "playerFirstName": "Caleb",
+          "playerLastName": "Love"
+        },
+        {
+          "playerId": "95634440",
+          "playerFirstName": "Jrue",
+          "playerLastName": "Holiday"
+        },
+        {
+          "playerId": "64700516",
+          "playerFirstName": "Deni",
+          "playerLastName": "Avdija"
+        },
+        {
+          "playerId": "25698347",
+          "playerFirstName": "Rayan",
+          "playerLastName": "Rupert"
+        },
+        {
+          "playerId": "99075810",
+          "playerFirstName": "Sidy",
+          "playerLastName": "Cissoko"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "55273628",
+          "playerFirstName": "Matisse",
+          "playerLastName": "Thybulle"
+        },
+        {
+          "playerId": "00726454",
+          "playerFirstName": "Jerami",
+          "playerLastName": "Grant"
+        },
+        {
+          "playerId": "73414639",
+          "playerFirstName": "Shaedon",
+          "playerLastName": "Sharpe"
+        },
+        {
+          "playerId": "81583152",
+          "playerFirstName": "Kris",
+          "playerLastName": "Murray"
+        },
+        {
+          "playerId": "66770748",
+          "playerFirstName": "Toumani",
+          "playerLastName": "Camara"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "34102456",
+          "playerFirstName": "Robert",
+          "playerLastName": "Williams"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "16507627",
+          "playerFirstName": "Yang",
+          "playerLastName": "Hansen"
+        },
+        {
+          "playerId": "78424702",
+          "playerFirstName": "Donovan",
+          "playerLastName": "Clingan"
+        },
+        {
+          "playerId": "59401249",
+          "playerFirstName": "Duop",
+          "playerLastName": "Reath"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612758,
+    "abbreviation": "SAC",
+    "teamName": "Sacramento Kings",
+    "simpleName": "Kings",
+    "location": "Sacramento",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "86110541",
+          "playerFirstName": "Dennis",
+          "playerLastName": "Schroder"
+        },
+        {
+          "playerId": "89459565",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Stevens"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "28133452",
+          "playerFirstName": "Malik",
+          "playerLastName": "Monk"
+        },
+        {
+          "playerId": "58356849",
+          "playerFirstName": "Zach",
+          "playerLastName": "LaVine"
+        },
+        {
+          "playerId": "09207193",
+          "playerFirstName": "DeMar",
+          "playerLastName": "DeRozan"
+        },
+        {
+          "playerId": "45322961",
+          "playerFirstName": "Russell",
+          "playerLastName": "Westbrook"
+        },
+        {
+          "playerId": "27798318",
+          "playerFirstName": "Devin",
+          "playerLastName": "Carter"
+        },
+        {
+          "playerId": "70624781",
+          "playerFirstName": "Daeqwon",
+          "playerLastName": "Plowden"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "48513969",
+          "playerFirstName": "Nique",
+          "playerLastName": "Clifford"
+        },
+        {
+          "playerId": "65414538",
+          "playerFirstName": "Doug",
+          "playerLastName": "McDermott"
+        },
+        {
+          "playerId": "48241060",
+          "playerFirstName": "Keegan",
+          "playerLastName": "Murray"
+        },
+        {
+          "playerId": "88729694",
+          "playerFirstName": "Dario",
+          "playerLastName": "Saric"
+        },
+        {
+          "playerId": "95591341",
+          "playerFirstName": "Keon",
+          "playerLastName": "Ellis"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "68858875",
+          "playerFirstName": "Domantas",
+          "playerLastName": "Sabonis"
+        },
+        {
+          "playerId": "48128262",
+          "playerFirstName": "Dylan",
+          "playerLastName": "Cardwell"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "32879432",
+          "playerFirstName": "Isaac",
+          "playerLastName": "Jones"
+        },
+        {
+          "playerId": "84734273",
+          "playerFirstName": "Drew",
+          "playerLastName": "Eubanks"
+        },
+        {
+          "playerId": "32644087",
+          "playerFirstName": "Maxime",
+          "playerLastName": "Raynaud"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612759,
+    "abbreviation": "SAS",
+    "teamName": "San Antonio Spurs",
+    "simpleName": "Spurs",
+    "location": "San Antonio",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "56327519",
+          "playerFirstName": "De'Aaron",
+          "playerLastName": "Fox"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "77325029",
+          "playerFirstName": "Jordan",
+          "playerLastName": "McLaughlin"
+        },
+        {
+          "playerId": "86404773",
+          "playerFirstName": "Dylan",
+          "playerLastName": "Harper"
+        },
+        {
+          "playerId": "17879145",
+          "playerFirstName": "Stephon",
+          "playerLastName": "Castle"
+        },
+        {
+          "playerId": "11979243",
+          "playerFirstName": "Jeremy",
+          "playerLastName": "Sochan"
+        },
+        {
+          "playerId": "70466638",
+          "playerFirstName": "Devin",
+          "playerLastName": "Vassell"
+        },
+        {
+          "playerId": "12979274",
+          "playerFirstName": "Lindy",
+          "playerLastName": "Waters III"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "53667652",
+          "playerFirstName": "Victor",
+          "playerLastName": "Wembanyama"
+        },
+        {
+          "playerId": "56148879",
+          "playerFirstName": "Keldon",
+          "playerLastName": "Johnson"
+        },
+        {
+          "playerId": "91725380",
+          "playerFirstName": "Luke",
+          "playerLastName": "Kornet"
+        },
+        {
+          "playerId": "05753352",
+          "playerFirstName": "Carter",
+          "playerLastName": "Bryant"
+        },
+        {
+          "playerId": "21129866",
+          "playerFirstName": "David",
+          "playerLastName": "Jones-Garcia"
+        },
+        {
+          "playerId": "37947149",
+          "playerFirstName": "Riley",
+          "playerLastName": "Minix"
+        },
+        {
+          "playerId": "41001519",
+          "playerFirstName": "Julian",
+          "playerLastName": "Champagnie"
+        },
+        {
+          "playerId": "03833784",
+          "playerFirstName": "Harrison",
+          "playerLastName": "Barnes"
+        },
+        {
+          "playerId": "22040840",
+          "playerFirstName": "Harrison",
+          "playerLastName": "Ingram"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "79505130",
+          "playerFirstName": "Bismack",
+          "playerLastName": "Biyombo"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "36090367",
+          "playerFirstName": "Kelly",
+          "playerLastName": "Olynyk"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612760,
+    "abbreviation": "OKC",
+    "teamName": "Oklahoma City Thunder",
+    "simpleName": "Thunder",
+    "location": "Oklahoma City",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "17338484",
+          "playerFirstName": "Shai",
+          "playerLastName": "Gilgeous-Alexander"
+        },
+        {
+          "playerId": "91980298",
+          "playerFirstName": "Luguentz",
+          "playerLastName": "Dort"
+        },
+        {
+          "playerId": "47209498",
+          "playerFirstName": "Ajay",
+          "playerLastName": "Mitchell"
+        },
+        {
+          "playerId": "60426549",
+          "playerFirstName": "Nikola",
+          "playerLastName": "Topic"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "45366801",
+          "playerFirstName": "Chris",
+          "playerLastName": "Youngblood"
+        },
+        {
+          "playerId": "69714041",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Williams"
+        },
+        {
+          "playerId": "23745924",
+          "playerFirstName": "Alex",
+          "playerLastName": "Caruso"
+        },
+        {
+          "playerId": "35356210",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Joe"
+        },
+        {
+          "playerId": "14249716",
+          "playerFirstName": "Thomas",
+          "playerLastName": "Sorber"
+        },
+        {
+          "playerId": "42190090",
+          "playerFirstName": "Ousmane",
+          "playerLastName": "Dieng"
+        },
+        {
+          "playerId": "58611232",
+          "playerFirstName": "Cason",
+          "playerLastName": "Wallace"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "45050393",
+          "playerFirstName": "Aaron",
+          "playerLastName": "Wiggins"
+        },
+        {
+          "playerId": "94846157",
+          "playerFirstName": "Brooks",
+          "playerLastName": "Barnhizer"
+        },
+        {
+          "playerId": "57479130",
+          "playerFirstName": "Kenrich",
+          "playerLastName": "Williams"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "95654641",
+          "playerFirstName": "Branden",
+          "playerLastName": "Carlson"
+        },
+        {
+          "playerId": "06452290",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Hartenstein"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "84251074",
+          "playerFirstName": "Jaylin",
+          "playerLastName": "Williams"
+        },
+        {
+          "playerId": "83131567",
+          "playerFirstName": "Chet",
+          "playerLastName": "Holmgren"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612761,
+    "abbreviation": "TOR",
+    "teamName": "Toronto Raptors",
+    "simpleName": "Raptors",
+    "location": "Toronto",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "24876234",
+          "playerFirstName": "Immanuel",
+          "playerLastName": "Quickley"
+        },
+        {
+          "playerId": "52531485",
+          "playerFirstName": "Alijah",
+          "playerLastName": "Martin"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "27029130",
+          "playerFirstName": "Gradey",
+          "playerLastName": "Dick"
+        },
+        {
+          "playerId": "49393453",
+          "playerFirstName": "R.J.",
+          "playerLastName": "Barrett"
+        },
+        {
+          "playerId": "43465966",
+          "playerFirstName": "Garrett",
+          "playerLastName": "Temple"
+        },
+        {
+          "playerId": "38817528",
+          "playerFirstName": "Jamal",
+          "playerLastName": "Shead"
+        },
+        {
+          "playerId": "85868339",
+          "playerFirstName": "Chucky",
+          "playerLastName": "Hepburn"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "78892720",
+          "playerFirstName": "A.J.",
+          "playerLastName": "Lawson"
+        },
+        {
+          "playerId": "35998346",
+          "playerFirstName": "Jonathan",
+          "playerLastName": "Mogbo"
+        },
+        {
+          "playerId": "88807145",
+          "playerFirstName": "Brandon",
+          "playerLastName": "Ingram"
+        },
+        {
+          "playerId": "52948410",
+          "playerFirstName": "Scottie",
+          "playerLastName": "Barnes"
+        },
+        {
+          "playerId": "27684565",
+          "playerFirstName": "Collin",
+          "playerLastName": "Murray-Boyles"
+        },
+        {
+          "playerId": "01992231",
+          "playerFirstName": "Ja'Kobe",
+          "playerLastName": "Walter"
+        },
+        {
+          "playerId": "15869853",
+          "playerFirstName": "Ochai",
+          "playerLastName": "Agbaji"
+        },
+        {
+          "playerId": "42038826",
+          "playerFirstName": "Sandro",
+          "playerLastName": "Mamukelashvili"
+        },
+        {
+          "playerId": "08146055",
+          "playerFirstName": "Jamison",
+          "playerLastName": "Battle"
+        }
+      ],
+      "PF": [],
+      "C": [
+        {
+          "playerId": "68162771",
+          "playerFirstName": "Jakob",
+          "playerLastName": "Poeltl"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612762,
+    "abbreviation": "UTA",
+    "teamName": "Utah Jazz",
+    "simpleName": "Jazz",
+    "location": "Utah",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "72872532",
+          "playerFirstName": "E.J.",
+          "playerLastName": "Harkless"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "05277213",
+          "playerFirstName": "Keyonte",
+          "playerLastName": "George"
+        },
+        {
+          "playerId": "47805325",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Collier"
+        },
+        {
+          "playerId": "98919931",
+          "playerFirstName": "Walter",
+          "playerLastName": "Clayton, Jr."
+        },
+        {
+          "playerId": "00464065",
+          "playerFirstName": "John",
+          "playerLastName": "Tonje"
+        },
+        {
+          "playerId": "94300304",
+          "playerFirstName": "Jusuf",
+          "playerLastName": "Nurkic"
+        },
+        {
+          "playerId": "65225212",
+          "playerFirstName": "Kevin",
+          "playerLastName": "Love"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "95284700",
+          "playerFirstName": "Taylor",
+          "playerLastName": "Hendricks"
+        },
+        {
+          "playerId": "95077959",
+          "playerFirstName": "Cody",
+          "playerLastName": "Williams"
+        },
+        {
+          "playerId": "92889203",
+          "playerFirstName": "Svi",
+          "playerLastName": "Mykhailiuk"
+        },
+        {
+          "playerId": "14212373",
+          "playerFirstName": "Ace",
+          "playerLastName": "Bailey"
+        },
+        {
+          "playerId": "31251717",
+          "playerFirstName": "Lauri",
+          "playerLastName": "Markkanen"
+        },
+        {
+          "playerId": "30265090",
+          "playerFirstName": "Brice",
+          "playerLastName": "Sensabaugh"
+        },
+        {
+          "playerId": "72446432",
+          "playerFirstName": "Georges",
+          "playerLastName": "Niang"
+        },
+        {
+          "playerId": "21324527",
+          "playerFirstName": "Oscar",
+          "playerLastName": "Tshiebwe"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "62440075",
+          "playerFirstName": "Kyle",
+          "playerLastName": "Anderson"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "13080453",
+          "playerFirstName": "Kyle",
+          "playerLastName": "Filipowski"
+        },
+        {
+          "playerId": "89251985",
+          "playerFirstName": "Walker",
+          "playerLastName": "Kessler"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612763,
+    "abbreviation": "MEM",
+    "teamName": "Memphis Grizzlies",
+    "simpleName": "Grizzlies",
+    "location": "Memphis",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "39156696",
+          "playerFirstName": "Ty",
+          "playerLastName": "Jerome"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "76902353",
+          "playerFirstName": "Scotty",
+          "playerLastName": "Pippen, Jr."
+        },
+        {
+          "playerId": "40817608",
+          "playerFirstName": "Kentavious",
+          "playerLastName": "Caldwell-Pope"
+        },
+        {
+          "playerId": "64704593",
+          "playerFirstName": "Javon",
+          "playerLastName": "Small"
+        },
+        {
+          "playerId": "20239117",
+          "playerFirstName": "Ja",
+          "playerLastName": "Morant"
+        },
+        {
+          "playerId": "61763839",
+          "playerFirstName": "Cam",
+          "playerLastName": "Spencer"
+        },
+        {
+          "playerId": "91940287",
+          "playerFirstName": "John",
+          "playerLastName": "Konchar"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "47229548",
+          "playerFirstName": "Jaylen",
+          "playerLastName": "Wells"
+        },
+        {
+          "playerId": "71854284",
+          "playerFirstName": "Vincent",
+          "playerLastName": "Williams, Jr."
+        },
+        {
+          "playerId": "12988099",
+          "playerFirstName": "Olivier-Maxence",
+          "playerLastName": "Prosper"
+        },
+        {
+          "playerId": "23176364",
+          "playerFirstName": "Cedric",
+          "playerLastName": "Coward"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "19124752",
+          "playerFirstName": "Jaren",
+          "playerLastName": "Jackson, Jr."
+        },
+        {
+          "playerId": "76180935",
+          "playerFirstName": "Brandon",
+          "playerLastName": "Clarke"
+        },
+        {
+          "playerId": "19860882",
+          "playerFirstName": "P.J.",
+          "playerLastName": "Hall"
+        },
+        {
+          "playerId": "65471489",
+          "playerFirstName": "G.G.",
+          "playerLastName": "Jackson"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "56691269",
+          "playerFirstName": "Santi",
+          "playerLastName": "Aldama"
+        },
+        {
+          "playerId": "84279252",
+          "playerFirstName": "Zach",
+          "playerLastName": "Edey"
+        },
+        {
+          "playerId": "76698166",
+          "playerFirstName": "Jock",
+          "playerLastName": "Landale"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612764,
+    "abbreviation": "WAS",
+    "teamName": "Washington Wizards",
+    "simpleName": "Wizards",
+    "location": "Washington",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "96602587",
+          "playerFirstName": "Sharife",
+          "playerLastName": "Cooper"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "22502196",
+          "playerFirstName": "Bilal",
+          "playerLastName": "Coulibaly"
+        },
+        {
+          "playerId": "03566227",
+          "playerFirstName": "C.J.",
+          "playerLastName": "McCollum"
+        },
+        {
+          "playerId": "60007663",
+          "playerFirstName": "A.J.",
+          "playerLastName": "Johnson"
+        },
+        {
+          "playerId": "59800255",
+          "playerFirstName": "Bub",
+          "playerLastName": "Carrington"
+        },
+        {
+          "playerId": "13679995",
+          "playerFirstName": "Malaki",
+          "playerLastName": "Branham"
+        },
+        {
+          "playerId": "23897831",
+          "playerFirstName": "Tre",
+          "playerLastName": "Johnson"
+        },
+        {
+          "playerId": "17995584",
+          "playerFirstName": "Alex",
+          "playerLastName": "Sarr"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "23509602",
+          "playerFirstName": "Tristan",
+          "playerLastName": "Vukcevic"
+        },
+        {
+          "playerId": "67937542",
+          "playerFirstName": "Cam",
+          "playerLastName": "Whitmore"
+        },
+        {
+          "playerId": "95130785",
+          "playerFirstName": "Jamir",
+          "playerLastName": "Watkins"
+        },
+        {
+          "playerId": "98937947",
+          "playerFirstName": "Justin",
+          "playerLastName": "Champagnie"
+        },
+        {
+          "playerId": "73974945",
+          "playerFirstName": "Kyshawn",
+          "playerLastName": "George"
+        },
+        {
+          "playerId": "44047979",
+          "playerFirstName": "Khris",
+          "playerLastName": "Middleton"
+        },
+        {
+          "playerId": "93004391",
+          "playerFirstName": "Corey",
+          "playerLastName": "Kispert"
+        },
+        {
+          "playerId": "72843299",
+          "playerFirstName": "Will",
+          "playerLastName": "Riley"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "04052238",
+          "playerFirstName": "Anthony",
+          "playerLastName": "Gill"
+        },
+        {
+          "playerId": "78612233",
+          "playerFirstName": "Marvin",
+          "playerLastName": "Bagley III"
+        }
+      ],
+      "C": []
+    }
+  },
+  {
+    "teamId": 1610612765,
+    "abbreviation": "DET",
+    "teamName": "Detroit Pistons",
+    "simpleName": "Pistons",
+    "location": "Detroit",
+    "roster": {
+      "PG": [],
+      "SG": [
+        {
+          "playerId": "11780871",
+          "playerFirstName": "Colby",
+          "playerLastName": "Jones"
+        },
+        {
+          "playerId": "41971912",
+          "playerFirstName": "Caris",
+          "playerLastName": "LeVert"
+        },
+        {
+          "playerId": "33999507",
+          "playerFirstName": "Ausar",
+          "playerLastName": "Thompson"
+        },
+        {
+          "playerId": "79681164",
+          "playerFirstName": "Chaz",
+          "playerLastName": "Lanier"
+        },
+        {
+          "playerId": "90824772",
+          "playerFirstName": "Jaden",
+          "playerLastName": "Ivey"
+        },
+        {
+          "playerId": "76441619",
+          "playerFirstName": "Daniss",
+          "playerLastName": "Jenkins"
+        },
+        {
+          "playerId": "57609487",
+          "playerFirstName": "Marcus",
+          "playerLastName": "Sasser"
+        },
+        {
+          "playerId": "27740625",
+          "playerFirstName": "Javonte",
+          "playerLastName": "Green"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "86945069",
+          "playerFirstName": "Cade",
+          "playerLastName": "Cunningham"
+        },
+        {
+          "playerId": "96098161",
+          "playerFirstName": "Ron",
+          "playerLastName": "Holland"
+        },
+        {
+          "playerId": "36632596",
+          "playerFirstName": "Paul",
+          "playerLastName": "Reed, Jr."
+        },
+        {
+          "playerId": "45618288",
+          "playerFirstName": "Tobias",
+          "playerLastName": "Harris"
+        },
+        {
+          "playerId": "83748942",
+          "playerFirstName": "Bobi",
+          "playerLastName": "Klintman"
+        },
+        {
+          "playerId": "23897575",
+          "playerFirstName": "Tolu",
+          "playerLastName": "Smith"
+        },
+        {
+          "playerId": "18058029",
+          "playerFirstName": "Duncan",
+          "playerLastName": "Robinson"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "95081999",
+          "playerFirstName": "Jalen",
+          "playerLastName": "Duren"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "27558822",
+          "playerFirstName": "Isaiah",
+          "playerLastName": "Stewart II"
+        }
+      ]
+    }
+  },
+  {
+    "teamId": 1610612766,
+    "abbreviation": "CHA",
+    "teamName": "Charlotte Hornets",
+    "simpleName": "Hornets",
+    "location": "Charlotte",
+    "roster": {
+      "PG": [
+        {
+          "playerId": "74839768",
+          "playerFirstName": "Sion",
+          "playerLastName": "James"
+        },
+        {
+          "playerId": "17274499",
+          "playerFirstName": "Collin",
+          "playerLastName": "Sexton"
+        },
+        {
+          "playerId": "99866164",
+          "playerFirstName": "Tre",
+          "playerLastName": "Mann"
+        }
+      ],
+      "SG": [
+        {
+          "playerId": "00234365",
+          "playerFirstName": "LaMelo",
+          "playerLastName": "Ball"
+        },
+        {
+          "playerId": "60295126",
+          "playerFirstName": "Josh",
+          "playerLastName": "Green"
+        },
+        {
+          "playerId": "82922692",
+          "playerFirstName": "Antonio",
+          "playerLastName": "Reeves"
+        },
+        {
+          "playerId": "78849109",
+          "playerFirstName": "K.J.",
+          "playerLastName": "Simpson"
+        }
+      ],
+      "SF": [
+        {
+          "playerId": "05923650",
+          "playerFirstName": "Miles",
+          "playerLastName": "Bridges"
+        },
+        {
+          "playerId": "96626723",
+          "playerFirstName": "Grant",
+          "playerLastName": "Williams"
+        },
+        {
+          "playerId": "99704755",
+          "playerFirstName": "Kon",
+          "playerLastName": "Knueppel"
+        },
+        {
+          "playerId": "25751265",
+          "playerFirstName": "Drew",
+          "playerLastName": "Peterson"
+        },
+        {
+          "playerId": "04834216",
+          "playerFirstName": "Pat",
+          "playerLastName": "Connaughton"
+        },
+        {
+          "playerId": "47858404",
+          "playerFirstName": "Brandon",
+          "playerLastName": "Miller"
+        },
+        {
+          "playerId": "54903883",
+          "playerFirstName": "Tidjane",
+          "playerLastName": "Salaun"
+        },
+        {
+          "playerId": "04498860",
+          "playerFirstName": "Liam",
+          "playerLastName": "McNeeley"
+        }
+      ],
+      "PF": [
+        {
+          "playerId": "06904469",
+          "playerFirstName": "Moussa",
+          "playerLastName": "Diabate"
+        },
+        {
+          "playerId": "73000380",
+          "playerFirstName": "Mason",
+          "playerLastName": "Plumlee"
+        }
+      ],
+      "C": [
+        {
+          "playerId": "88297051",
+          "playerFirstName": "Ryan",
+          "playerLastName": "Kalkbrenner"
+        }
+      ]
+    }
+  }
+]
